@@ -1,9 +1,13 @@
 import React, { Component } from 'react';
+import GithubView from './containers/GithubView/GithubView';
+import { BrowserRouter } from 'react-router-dom';
 
 class App extends Component {
   render() {
     return (
-      <div>Immersive Labs Frontend Techical Test</div>
+      <BrowserRouter>
+        <GithubView />
+     </BrowserRouter>
     );
   }
 }
