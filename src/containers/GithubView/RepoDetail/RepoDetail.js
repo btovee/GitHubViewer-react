@@ -46,7 +46,7 @@ class RepoDetail extends Component {
                           Private
                         </TableCell>
                         <TableCell>
-                            {this.props.gitHubRepoDetails.private}
+                            {this.props.gitHubRepoDetails.private.toString()}
                         </TableCell>
                     </TableRow>
                         <TableCell component="th" scope="row">
