@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ImmersiveLabsGitHubViewer/precache-manifest.2e7d0cacad65f0dfc980a553f6c2ac18.js"
+  "/ImmersiveLabsGitHubViewer/precache-manifest.f9ad57c65ef1dda8c11e4122b2d191aa.js"
 );
 
 workbox.clientsClaim();
