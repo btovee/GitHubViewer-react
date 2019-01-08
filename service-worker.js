@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ImmersiveLabsGitHubViewer/precache-manifest.f9ad57c65ef1dda8c11e4122b2d191aa.js"
+  "/GitHubViewer-react/precache-manifest.3f677e3af54b9105be5828f329d566ac.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/ImmersiveLabsGitHubViewer/index.html", {
+workbox.routing.registerNavigationRoute("/GitHubViewer-react/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

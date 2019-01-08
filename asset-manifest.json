@@ -1,11 +1,11 @@
 {
-  "main.js": "/ImmersiveLabsGitHubViewer/static/js/main.a8ce3e56.chunk.js",
-  "main.js.map": "/ImmersiveLabsGitHubViewer/static/js/main.a8ce3e56.chunk.js.map",
-  "static/js/1.d27b4d8c.chunk.js": "/ImmersiveLabsGitHubViewer/static/js/1.d27b4d8c.chunk.js",
-  "static/js/1.d27b4d8c.chunk.js.map": "/ImmersiveLabsGitHubViewer/static/js/1.d27b4d8c.chunk.js.map",
-  "runtime~main.js": "/ImmersiveLabsGitHubViewer/static/js/runtime~main.042478df.js",
-  "runtime~main.js.map": "/ImmersiveLabsGitHubViewer/static/js/runtime~main.042478df.js.map",
-  "index.html": "/ImmersiveLabsGitHubViewer/index.html",
-  "precache-manifest.f9ad57c65ef1dda8c11e4122b2d191aa.js": "/ImmersiveLabsGitHubViewer/precache-manifest.f9ad57c65ef1dda8c11e4122b2d191aa.js",
-  "service-worker.js": "/ImmersiveLabsGitHubViewer/service-worker.js"
+  "main.js": "/GitHubViewer-react/static/js/main.68d2b3b4.chunk.js",
+  "main.js.map": "/GitHubViewer-react/static/js/main.68d2b3b4.chunk.js.map",
+  "static/js/1.d27b4d8c.chunk.js": "/GitHubViewer-react/static/js/1.d27b4d8c.chunk.js",
+  "static/js/1.d27b4d8c.chunk.js.map": "/GitHubViewer-react/static/js/1.d27b4d8c.chunk.js.map",
+  "runtime~main.js": "/GitHubViewer-react/static/js/runtime~main.987ea288.js",
+  "runtime~main.js.map": "/GitHubViewer-react/static/js/runtime~main.987ea288.js.map",
+  "index.html": "/GitHubViewer-react/index.html",
+  "precache-manifest.3f677e3af54b9105be5828f329d566ac.js": "/GitHubViewer-react/precache-manifest.3f677e3af54b9105be5828f329d566ac.js",
+  "service-worker.js": "/GitHubViewer-react/service-worker.js"
 }
